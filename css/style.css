@@ -1,0 +1,33 @@
+/****** Adding Font *******/
+@font-face{
+    font-family:vegur;
+	src:url("Vegur-R.otf");
+}
+
+
+/****** Body and Main *******/
+body{
+    font-family:arial;
+	font-size:100%;
+	color:#a1a1a1;
+	background:#000;
+	margin:0;
+	padding:0;
+}
+
+.extra{
+    height:auto !important;
+	min-height:100%;
+	margin:0px auto -40px;
+	position:relative;
+	overflow:hidden;
+	z-index:1;
+}
+
+.main{
+    width:960px;
+	padding:0;
+	margin:0px auto;
+	font-size:0.8em;
+	line-height:1.5em;
+}
