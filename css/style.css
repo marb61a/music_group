@@ -82,3 +82,39 @@ ul{
 }
 
 .menu li a:hover, .menu li a.current{color:#93ceee;}
+
+
+/****** Content area of Home Page *******/
+.content{
+	width:100%;
+	padding:0;
+	position:relative;
+	z-index:1;
+}
+
+.bg-2{
+	width:100%;
+	background:url("../images/bg-2-tail.gif") repeat center top;
+	border-radius:3px;
+}
+
+.content-padding-1{
+	padding:18px 0 37px 0;	
+}
+
+.content-padding-2{
+	padding:23px 0 57px 0;	
+}
+
+.padding-grid-1{
+	padding:0 0 0 28px;	
+}
+
+.padding-grid-2{
+	padding:0 0 0 29px;	
+}
+
+.padding-grid-4{
+	padding:3px 0 0 19px;
+	line-height:24px;
+}
