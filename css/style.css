@@ -118,3 +118,37 @@ ul{
 	padding:3px 0 0 19px;
 	line-height:24px;
 }
+
+
+/****** Footer *******/
+footer{
+	width:100%;
+	padding:0;
+	height:104px;
+	position:relative;
+	z-index:2;
+	color:#fff;
+	overflow:hidden;
+}
+
+.footer.bg{
+	width:100%;
+	background:url(../images/footer-bg.jpg) no-repeat -1px top;
+	min-height:104px;
+}
+
+.footer-padding{
+	padding:28px 80px 0 29px;
+}
+
+.footer-text{
+	font-size:14px;
+	line-height:24px;
+	color:#fff;
+	display:block;
+	float:left;
+}
+
+.footer-text span{
+	display:block;
+}
