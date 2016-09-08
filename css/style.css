@@ -152,3 +152,46 @@ footer{
 .footer-text span{
 	display:block;
 }
+
+.list-services{
+	float:right;
+	padding:2px 0 0 0;
+}
+
+.list-services li{
+	float:left;
+	padding:0 4px 0 0;
+}
+
+.list-services li a{
+	display:inline-block;
+	width:51px;
+	height:51px;
+}
+
+
+/****** Tour Dates Page *******/
+.add{
+	display:inline-block;
+}
+
+.colr-1{
+	color:#fff
+}
+
+.list-3 li{
+	font-size:13px;
+	line-height:20px;
+	background:url(../images/list-3-marker.gif) no-repeat left 12px;
+	padding:5px 0 5px 12px;
+}
+
+.list-3 li a{
+	display:inline-block;
+	color:#fff;
+	text-decoration:none;
+}
+
+.list-3 li a:hover{
+	color:#93ceee;	
+}
