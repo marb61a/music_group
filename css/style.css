@@ -195,3 +195,54 @@ footer{
 .list-3 li a:hover{
 	color:#93ceee;	
 }
+
+
+/****** Headings *******/
+h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+}
+
+h3{
+	font-size:25px;
+	line-height:2em;
+	margin:0 0 9px 0;
+	color:#93ceee;
+}
+
+h3 strong{
+	color:#fff;
+}
+
+h4{
+	font-size:20px;
+	line-height:2em;
+	color:#fff;
+	letter-spacing:-1px;
+	margin-bottom:-8px;
+}
+
+h4 a{
+	text-decoration:none;
+	display:inline-block;
+	color:#fff;
+}
+
+h4 a:hover{
+	color:#93ceee;	
+}
+
+h3,h4{
+	font-family:vegur;
+	font-weight:400;
+}
+
+h6{
+	font-size:13px;
+	line-height:20px;
+	color:#fff;
+}
+
+h4 strong{
+	color:#93ceee;
+}
