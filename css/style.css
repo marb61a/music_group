@@ -197,6 +197,39 @@ footer{
 }
 
 
+
+/****** Text Styles *******/
+.letter{
+	letter-spacing:-1px;
+}
+
+.text-1, .text-3, .text-5{
+	font-size:25px;
+	line-height:2em;
+	display:block;
+	color:#fff;
+	margin-top:-6px;
+	padding-left:2px;
+}
+
+.text-2, .text-4, .text-6{
+	font-size:20px;
+	line-height:2em;
+	display:block;
+	color:#a1a1a1;
+	margin-top:-29px;
+	letter-spacing:-1px;
+}
+
+.text-1{font-family:vegur;font-weight:700;text-shadow:1px 1px #191919;}
+.text-2{font-family:vegur;font-weight:400;text-shadow:1px 1px #191919;}
+.text-3{font-family:vegur;font-weight:700;text-shadow:1px 1px #4f9dd1;}
+.text-4{font-family:vegur;font-weight:400;color:#fff;}
+.text-5{font-family:vegur;font-weight:700;color:#5ca8d2;}
+.text-6{font-family:vegur;font-weight:400;color:#4d4d4d;}
+
+
+
 /****** Headings *******/
 h2,h3,h4,h5,h6{
 	margin:0;
