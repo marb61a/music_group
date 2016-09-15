@@ -197,6 +197,76 @@ footer{
 }
 
 
+/****** Links *******/
+a{
+	color:#93ceee;
+	outline:none;
+	text-decoration:none;
+	vertical-align:top;
+}
+
+.link:hover{
+	text-decoration:underline;
+}
+
+.button{
+	color:#fff;
+	font-size:16px;
+	line-height:30px;
+	display:inline-block;
+}
+
+.button:hover{
+	text-decoration:underline;
+}
+
+
+/****** Margins *******/
+.ident-bot1{
+	margin-bottom:23px;	
+}
+
+.ident-bot2{
+	margin-bottom:26px;	
+}
+
+.ident-top1{
+	margin-top:-10px;
+}
+
+.prev-indent-bot{
+	margin-bottom:10px;
+}
+
+.prev-indent-bot1{
+	margin-bottom:6px;
+}
+
+.prev-indent-bot2{
+	margin-bottom:8px;
+}
+
+.margin-bot1{
+	margin-bottom:32px;
+}
+
+p{
+	margin:0;
+	padding:0;
+}
+
+.margin-none{
+	margin-bottom:0px;
+}
+
+.p3{
+	margin-bottom:30px
+}
+
+.p2{
+	margin-bottom:15px
+}
+
 
 /****** Text Styles *******/
 .letter{
