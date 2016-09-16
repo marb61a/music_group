@@ -197,6 +197,48 @@ footer{
 }
 
 
+/****** Contacts Page *******/
+.contact-form{
+	position:relative;
+	vertical-align:align-top;
+	width:100%;
+}
+
+.contact-form fieldset{
+	border:none;
+	margin:0;
+	padding:0;
+	width:100%;
+	overflow:hidden;
+}
+
+.contact-form label{
+	display:block;
+	min-height:40px;
+	overflow:hidden;
+}
+
+.style-input{
+	display:block;
+	float:left;
+	width:75px;
+	padding:5px 0 0 1px;
+}
+
+.contact-form input,textarea{
+	margin:0;
+	width:479px;
+	padding:6px 12px;
+	font-family:arial;
+	font-size:13px;
+	line-height:1.25em;
+	color:#a1a1a1;
+	border:1px solid #333;
+	background:none;
+	outline:none;
+}
+
+
 /****** Links *******/
 a{
 	color:#93ceee;
