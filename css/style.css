@@ -238,6 +238,70 @@ footer{
 	outline:none;
 }
 
+.contact-form textarea{
+	overflow:auto;
+	height:184px;
+}
+
+.link-form{
+	text-align:right;
+	padding:8px 20px 0 0;
+}
+
+.link-margin{
+	margin-right:40px;
+}
+
+iframe{
+	border:none;
+	vertical-align:top;
+	margin:0;
+	padding:0;
+}
+
+dl,dd,dt{
+	margin:0;
+	padding:0;
+}
+
+
+/********************/
+figure{
+	margin:0;
+	padding:0;
+}
+
+.style-img{
+	border:1px solid #3b3b3b;
+	padding:1px;
+}
+
+.style-img-2{
+	border:1px solid #333;
+	padding:3px;
+}
+
+.fleft{
+	float:left;
+}
+
+.fright{
+	float:right;
+}
+
+.wrapper{
+	width:100%;
+	overflow:hidden;
+}
+
+.extra-wrap{
+	overflow:hidden;
+}
+
+img{
+	vertical-align:top;
+}
+
 
 /****** Links *******/
 a{
