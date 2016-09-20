@@ -170,6 +170,35 @@ footer{
 }
 
 
+/****** Audio Page *******/
+.list-1 li{
+	font-size:13px;
+	line-height:20px;
+}
+
+.list-2{
+	padding:5px 21px 0 0;
+}
+
+.list-2 li{
+	position:relative;
+	overflow:hidden;
+	width:41px;
+	min-height:20px;
+}
+
+.list-2 li img{
+	margin-right:4px;
+}
+
+
+/****** Gallery Page *******/
+.set-img img{
+	width:90%;
+	border:5px solid #fff;
+}
+
+
 /****** Tour Dates Page *******/
 .add{
 	display:inline-block;
