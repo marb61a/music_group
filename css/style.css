@@ -120,6 +120,56 @@ ul{
 }
 
 
+/****** Time *******/
+.time{
+	display:block;
+	width:55px;
+	height:54px;
+	overflow:hidden;
+	text-align:center;
+	float:left;
+	margin-right:16px;
+}
+
+.time-set-1{
+	background:url(../images/marker-text-1.png) no-repeat 1px top;
+}
+
+.time-set-2{
+	background:url(../images/marker-text-2.png) no-repeat 1px top;
+}
+
+.time-set-3{
+	background:url(../images/marker-text-3.png) no-repeat 1px top;
+}
+
+
+/****** Lightbox *******/
+.lightbox-img{
+	position:relative;
+	z-index:1;
+	overflow:hidden;
+	display:inline-block;
+}
+
+.lightbox-img img{
+	position:relative;
+	z-index:1;
+}
+
+.lightbox-img span{
+	display:inline-block;
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background:url(../images/magnify.png) no-repeat 50% 50%;
+	z-index:2;
+	padding:0;
+}
+
+
 /****** Footer *******/
 footer{
 	width:100%;
